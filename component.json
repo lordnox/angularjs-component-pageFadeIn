@@ -1,0 +1,20 @@
+{
+  "name": "angularjs-component-pageFadeIn",
+  "repo": "lordnox/angularjs-component-pageFadeIn",
+  "description": "fades the whole page in with one class on the body element",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "component/jquery": "*",
+    "lordnox/angularjs": "*"
+    },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [
+    "angularjs-component-pageFadeIn.css"
+  ]
+}
